@@ -3,7 +3,7 @@
 A simple and elegant analog clock built using **HTML, CSS, and JavaScript**. The clock dynamically updates every second using JavaScript and CSS transitions.  
 
 ## 📸 Preview  
-![JS Clock](<FireShot Capture 026 - JS + CSS Clock - 127.0.0.1.png>) 
+![JS Clock](<![alt text](<JS Clock.png>)>) 
 
 ## 🚀 Features  
 - Real-time analog clock updates.  
