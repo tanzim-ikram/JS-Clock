@@ -19,5 +19,5 @@ A simple and elegant analog clock built using **HTML, CSS, and JavaScript**. The
 ## 🔧 Setup & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/css-js-clock.git
-   cd css-js-clock
+   git clone git@github.com:tanzim-ikram/JS-Clock.git
+   cd JS-Clock
